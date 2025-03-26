@@ -21,10 +21,13 @@ Edkar POS es un sistema de ventas gratis para Windows
 - Configuraciones
 
 ## Imagenes
-Inicio de sesion
 ![image](https://github.com/user-attachments/assets/be6d8ec8-8508-4baa-a99f-b7ba99d0fb61)
-
-Menu principal
 ![image](https://github.com/user-attachments/assets/d034d2f1-e18f-4d39-b213-7a042da132a2)
+![image](https://github.com/user-attachments/assets/357fb7a7-9f07-4bbe-8ad8-05a9ed757389)
+![image](https://github.com/user-attachments/assets/6f8bb213-addc-4972-bbb1-7a344bead9db)
+![image](https://github.com/user-attachments/assets/53a51300-a59c-435f-af58-a55293e1a398)
+
+
+
 
 
