@@ -39,6 +39,5 @@ Para descargar Edkar POS haga clic en el siguiente enlace: https://github.com/Ed
 
 ## Notas
 - La version liberada contiene un mensaje publicitario, el cual NO impide el uso del sistema.
-- El sistema se puede adecuar o mejorar mediante un costo
 
 
