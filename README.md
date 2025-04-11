@@ -24,7 +24,7 @@ Para descargar Edkar POS haga clic en el siguiente enlace: https://github.com/Ed
 - Configuraciones
 
 ## Imagenes
-![image](https://github.com/user-attachments/assets/a6305cc6-7f7f-4a99-8b73-a7780e48e524)
+![image](https://github.com/user-attachments/assets/1733535e-373c-4077-8480-3ec0d578c04c)
 
 ![image](https://github.com/user-attachments/assets/d034d2f1-e18f-4d39-b213-7a042da132a2)
 
@@ -36,8 +36,5 @@ Para descargar Edkar POS haga clic en el siguiente enlace: https://github.com/Ed
 
 ![image](https://github.com/user-attachments/assets/53a51300-a59c-435f-af58-a55293e1a398)
 
-
-## Notas
-- La version liberada contiene un mensaje publicitario, el cual NO impide el uso del sistema.
 
 
