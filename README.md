@@ -1,5 +1,8 @@
 # EdkarPOS-sistema-de-ventas-gratis
-Edkar POS es un sistema de ventas gratis para Windows
+
+## Acerca de
+#### Edkar POS es un sistema de ventas gratis para Windows
+Si quieres conocer mas acerca de este sistema, puedes ver el video en el siguiente enlace: https://youtu.be/9VmTmQ2bjco
 
 ## Descargar
 Para descargar Edkar POS haga clic en el siguiente enlace: https://github.com/EdkarSolutions/EdkarPOS-sistema-de-ventas-gratis/releases/tag/punto-de-venta-gratis
